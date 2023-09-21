@@ -27,7 +27,7 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/tjfoc/gmsm/sm3"
+	"github.com/gdchenxj/gmsm/sm3"
 )
 
 var (
